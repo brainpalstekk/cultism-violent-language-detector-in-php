@@ -1,0 +1,1 @@
+This was adapted from my Python simple language translator to building a PHP app that flags off violent languages in a Conversation. It allows authorised uses to store violent langauge and meaning in its knwledge base. 
